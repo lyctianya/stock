@@ -1,0 +1,4 @@
+[2023-08-29T15:37:53.742] [INFO] other - { from: 'mongoose', Options: { msg: 'MongoDB disconnected!' } }
+[2023-08-29T15:39:04.109] [INFO] other - { from: 'mongoose', Options: { msg: 'mongodb已连上了。。。。' } }
+[2023-08-29T15:42:35.423] [INFO] other - { from: 'mongoose', Options: { msg: 'mongodb已连上了。。。。' } }
+[2023-08-29T16:48:10.210] [INFO] other - { from: 'mongoose', Options: { msg: 'mongodb已连上了。。。。' } }
